@@ -1,5 +1,9 @@
 <?php
 
+/*
+LINCESE: GNU-AGPLv3
+*/
+
 $pharName = $argv[1] ?? null;
 $folderPath = $argv[2] ?? null;
 $path4Require = $argv[3] ?? null;
